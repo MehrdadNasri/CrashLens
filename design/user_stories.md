@@ -16,6 +16,9 @@ $\color{magenta}{\text{Ellington is a data scientist, so he is familiar with wor
 $\color{green}{\text{Nick wants to know where/under what conditions his forecasts will be most impactful.}}$
 $\color{cyan}{\text{Nick needs to be able to filter crash location/severity by weather conditions.}}$
 $\color{magenta}{\text{He has moderate technical skills but would prefer to be able to quickly, cleanly interface with the program.}}$
-4. 
+4. $\color{yellow}{\text{Jill is a parent of an elementary schooler, middle schooler, and high schooler in North Seattle.}}$
+$\color{green}{\text{Jill lives too close to the schools to have bus pickup. They want to see the safest route for their children to walk.}}$
+$\color{cyan}{\text{Jill needs to be able to look at data over a long period, over more recent periods, and the trend over time.}}$
+$\color{magenta}{\text{Jill gets frazzled if there are more than three or four buttons on a webpage.}}$
 5. 
 6. 
