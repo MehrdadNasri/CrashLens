@@ -20,5 +20,8 @@ $\color{magenta}{\text{He has moderate technical skills but would prefer to be a
 $\color{green}{\text{Jill lives too close to the schools to have bus pickup. They want to see the safest route for their children to walk.}}$
 $\color{cyan}{\text{Jill needs to be able to look at data over a long period, over more recent periods, and the trend over time.}}$
 $\color{magenta}{\text{Jill gets frazzled if there are more than three or four buttons on a webpage.}}$
-5. 
+5. $\color{yellow}{\text{Samuel is an eighth grader.}}$
+$\color{green}{\text{He wants to prove to his concerned parents the safety of a route he walks with his friends.}}$
+$\color{cyan}{\text{Samuel needs to be able to tell a narrative and clearly contrast safety of roads with one another.}}$
+$\color{magenta}{\text{Samuel is very technical and loves being able to get into the weeds of a software tool if possible.}}$
 6. 
