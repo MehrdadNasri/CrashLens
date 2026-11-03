@@ -24,4 +24,8 @@ $\color{magenta}{\text{Jill gets frazzled if there are more than three or four b
 $\color{green}{\text{He wants to prove to his concerned parents the safety of a route he walks with his friends.}}$
 $\color{cyan}{\text{Samuel needs to be able to tell a narrative and clearly contrast safety of roads with one another.}}$
 $\color{magenta}{\text{Samuel is very technical and loves being able to get into the weeds of a software tool if possible.}}$
-6. 
+6. $\color{yellow}{\text{Elon Musk is an influential businessman who likes to post outrageous graphics (often without fact-checking)}}$
+$\color{green}{\text{Elon Musk wants a tool that can show frequencies of collisions between teslas vs. other cars.}}$
+$\color{cyan}{\text{Elon wants a quick visualisation tool that he can play with and come up with many iterations using Grok to find a graph that fits his narrative.}}$
+$\color{magenta}{\text{Elon Musk is familiar with data science and stats but doesn’t have the time or patience to work through the code himself. He wants a fun UI he can play with in his free scrolling time.}}$
+7. 
