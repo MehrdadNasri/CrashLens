@@ -32,4 +32,7 @@ $\color{magenta}{\text{Elon Musk is familiar with data science and stats but doe
 $\color{green}{\text{Soloman wants to better design autonomous driving for Tesla cars to decrease collisions during extreme weather events.}}$
 $\color{cyan}{\text{He wants to use the tool to see under what weather conditions collisions typically occur in Seattle to better design safe and defensive driving for autonomous driving in harsh weather conditions. }}$
 $\color{magenta}{\text{Thought Soloman is technically skilled, he does not have time to search for traffic data, weather data, and analyze it.}}$
-
+8. $\color{yellow}{\text{Little Insurance works at Big Insurance which is an auto-insurance company.}}$
+$\color{green}{\text{Little Insurance wants to present a narrative for narrowing auto-insurance by neighbourhood to present to Big Insurance in a few days.}}$
+$\color{cyan}{\text{Little Insurance wants a tool to quickly quantify and estimate collision likelihood and costs by neighbourhood.}}$
+$\color{magenta}{\text{Little Insurance specialises in accounting and cost estimation but not probability or spatial distribution.}}$
