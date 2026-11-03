@@ -1,0 +1,5 @@
+Jeff is a cyclist. He wants to see in which part of the trails he is riding through, there is a higher danger zone with a lit of crashes for the cyclists, and he is also curious about the reasons behind those crashes so he could avoid those. He prefers the tool to be easy to use, and informative in the first look. He does not have a high level of expertise for data analysis, but he can easily use online tools and navigate throught them.
+
+Anne is a mother that takes her children to school. She is interested to examine the safety conidtions around the school to see if her children are safe to walk back home or not, so she wants to see how many accidents is happening around the school zone, and how many of them involves pedestrians. She is also interested to see what are the main reasons behind those incidents. She might be searching for the safest route to commute to make ssre her children are safe enough while commuting. She wants the tool to be easy to use, and gives her features she could use for fiding the safetst path.
+
+
