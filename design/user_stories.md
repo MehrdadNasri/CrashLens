@@ -12,7 +12,10 @@ $\color{magenta}{\text{Although he is technically sound, he does not have time t
 $\color{green}{\text{Ellington wants to investigate broad spatial distributional patterns in animal traffic collisions to determine if and where these issues may be relevant to identify potential hypotheses to motivate research projects.}}$
 $\color{cyan}{\text{Ellington wants to use a tool that can create nice visualisations and easily filter through the datasets. Spatial map, scatterplots across axis of location/car/etc. state variables, etc.}}$
 $\color{magenta}{\text{Ellington is a data scientist, so he is familiar with working through datasets and analysing code. However, Ellington is not a traffic analyst and is not familiar with data syntax, shorthands, data forms, etc. }}$
-3. 
+3. $\color{yellow}{\text{Nick is a meteorologist.}}$
+$\color{green}{\text{Nick wants to know where/under what conditions his forecasts will be most impactful.}}$
+$\color{cyan}{\text{Nick needs to be able to filter crash location/severity by weather conditions.}}$
+$\color{magenta}{\text{He has moderate technical skills but would prefer to be able to quickly, cleanly interface with the program.}}$
 4. 
 5. 
 6. 
