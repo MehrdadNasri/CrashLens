@@ -28,4 +28,8 @@ $\color{magenta}{\text{Samuel is very technical and loves being able to get into
 $\color{green}{\text{Elon Musk wants a tool that can show frequencies of collisions between teslas vs. other cars.}}$
 $\color{cyan}{\text{Elon wants a quick visualisation tool that he can play with and come up with many iterations using Grok to find a graph that fits his narrative.}}$
 $\color{magenta}{\text{Elon Musk is familiar with data science and stats but doesn’t have the time or patience to work through the code himself. He wants a fun UI he can play with in his free scrolling time.}}$
-7. 
+7. $\color{yellow}{\text{Soloman is a design and safety engineer at Tesla.}}$
+$\color{green}{\text{Soloman wants to better design autonomous driving for Tesla cars to decrease collisions during extreme weather events.}}$
+$\color{cyan}{\text{He wants to use the tool to see under what weather conditions collisions typically occur in Seattle to better design safe and defensive driving for autonomous driving in harsh weather conditions. }$
+$\color{magenta}{\text{Thought Soloman is technically skilled, he does not have time to search for traffic data, weather data, and analyze it.}}$
+
