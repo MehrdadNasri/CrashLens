@@ -60,11 +60,19 @@ $\color{magenta}{\text{Jim is tech savvy. If we’re not careful, he’ll try to
 $\color{green}{\text{They want to see the most common places of crash sites in Seattle and see whether visibility was related to the issue.}}$
 $\color{cyan}{\text{They want to be able to cross reference crash data locations with their own dataset of street light locations in Seattle, so they need to see specific site locations of where crashes occurred and when. Ideally, they want a spatial map of crash locations.}}$
 $\color{magenta}{\text{They are trained in spatial analysis tools.}}$
-15. $\color{yellow}{\text{dan}}$
+15. $\color{yellow}{\text{Pam is a policymaker.}}$
 $\color{green}{\text{Pam wants to investigate the differences in safety that the new "no turn on red" signs have had on traffic collisions.}}$
 $\color{cyan}{\text{Pam is planning to bring multiple datasets (including the traffic collision one) together for data analysis and would like the data to be clean and easy to understand.}}$
 $\color{magenta}{\text{Maybe Pam works in different coding languages to what are used by the makers of this software.}}$
-16. $\color{yellow}{\text{John Pork is a cop.}}$
+16. $\color{yellow}{\text{Robert is a 74-year-old retiree who enjoys walking to nearby parks, grocery stores, and community centers.}}$
+$\color{green}{\text{He wants to identify intersections with a history of pedestrian crashes, particularly those involving older adults.}}$
+$\color{cyan}{\text{He prefers large text, clear symbols, accessible color schemes, and simple explanations of crash statistics.}}$
+$\color{magenta}{\text{Robert has limited technical experience and needs an intuitive interface with minimal navigation steps.}}$
+17. $\color{yellow}{\text{Emily uses a wheelchair and regularly travels along sidewalks and pedestrian crossings in downtown Seattle.}}$
+$\color{green}{\text{She wants to understand where crashes involving pedestrians have occurred, especially around major intersections and busy roadways.}}$
+$\color{cyan}{\text{She would like the software to show pedestrian crash patterns alongside accessible crossing information when such data are available.}}$
+$\color{magenta}{\text{Emily has intermediate technical skills but values an accessible interface that supports keyboard navigation and screen readers.}}$
+18. $\color{yellow}{\text{John Pork is a cop.}}$
 $\color{green}{\text{John wants to easily identify places with the highest probability of traffic collisions at a given time and day.}}$
 $\color{cyan}{\text{John wants a tool that he can easily open up and see what he wants without any input needed (automatically identifying time of day, date, running a model, and showing the output on a map) that he can scroll through easily like google maps.}}$
 $\color{magenta}{\text{John does not do tech. John is a little old.}}$

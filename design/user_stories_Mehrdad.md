@@ -1,7 +1,7 @@
 
 
 
-
+1.
 Robert is a 74-year-old retiree who enjoys walking to nearby parks, grocery stores, and community centers. He wants to identify intersections with a history of pedestrian crashes, particularly those involving older adults. He prefers large text, clear symbols, accessible color schemes, and simple explanations of crash statistics. Robert has limited technical experience and needs an intuitive interface with minimal navigation steps.
 
 Emily uses a wheelchair and regularly travels along sidewalks and pedestrian crossings in downtown Seattle. She wants to understand where crashes involving pedestrians have occurred, especially around major intersections and busy roadways. She would like the software to show pedestrian crash patterns alongside accessible crossing information when such data are available. Emily has intermediate technical skills but values an accessible interface that supports keyboard navigation and screen readers.
