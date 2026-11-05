@@ -60,7 +60,7 @@ $\color{magenta}{\text{Jim is tech savvy. If we’re not careful, he’ll try to
 $\color{green}{\text{They want to see the most common places of crash sites in Seattle and see whether visibility was related to the issue.}}$
 $\color{cyan}{\text{They want to be able to cross reference crash data locations with their own dataset of street light locations in Seattle, so they need to see specific site locations of where crashes occurred and when. Ideally, they want a spatial map of crash locations.}}$
 $\color{magenta}{\text{They are trained in spatial analysis tools.}}$
-15. $\color{yellow}{\text{Pam is a policymaker.}}$
+15. $\color{yellow}{\text{dan}}$
 $\color{green}{\text{Pam wants to investigate the differences in safety that the new "no turn on red" signs have had on traffic collisions.}}$
 $\color{cyan}{\text{Pam is planning to bring multiple datasets (including the traffic collision one) together for data analysis and would like the data to be clean and easy to understand.}}$
 $\color{magenta}{\text{Maybe Pam works in different coding languages to what are used by the makers of this software.}}$
