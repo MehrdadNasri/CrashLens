@@ -64,3 +64,7 @@ $\color{magenta}{\text{They are trained in spatial analysis tools.}}$
 $\color{green}{\text{Pam wants to investigate the differences in safety that the new "no turn on red" signs have had on traffic collisions.}}$
 $\color{cyan}{\text{Pam is planning to bring multiple datasets (including the traffic collision one) together for data analysis and would like the data to be clean and easy to understand.}}$
 $\color{magenta}{\text{Maybe Pam works in different coding languages to what are used by the makers of this software.}}$
+16. $\color{yellow}{\text{John Pork is a cop.}}$
+$\color{green}{\text{John wants to easily identify places with the highest probability of traffic collisions at a given time and day.}}$
+$\color{cyan}{\text{John wants a tool that he can easily open up and see what he wants without any input needed (automatically identifying time of day, date, running a model, and showing the output on a map) that he can scroll through easily like google maps.}}$
+$\color{magenta}{\text{John does not do tech. John is a little old.}}$
