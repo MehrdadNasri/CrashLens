@@ -64,3 +64,13 @@ $\color{magenta}{\text{They are trained in spatial analysis tools.}}$
 $\color{green}{\text{Pam wants to investigate the differences in safety that the new "no turn on red" signs have had on traffic collisions.}}$
 $\color{cyan}{\text{Pam is planning to bring multiple datasets (including the traffic collision one) together for data analysis and would like the data to be clean and easy to understand.}}$
 $\color{magenta}{\text{Maybe Pam works in different coding languages to what are used by the makers of this software.}}$
+
+16. $\color{yellow}{\text{Robert is a 74-year-old retiree who enjoys walking to nearby parks, grocery stores, and community centers.}}$
+$\color{green}{\text{He wants to identify intersections with a history of pedestrian crashes, particularly those involving older adults.}}$
+$\color{cyan}{\text{He prefers large text, clear symbols, accessible color schemes, and simple explanations of crash statistics.}}$
+$\color{magenta}{\text{Robert has limited technical experience and needs an intuitive interface with minimal navigation steps.}}$
+
+17. $\color{yellow}{\text{Emily uses a wheelchair and regularly travels along sidewalks and pedestrian crossings in downtown Seattle.}}$
+$\color{green}{\text{She wants to understand where crashes involving pedestrians have occurred, especially around major intersections and busy roadways.}}$
+$\color{cyan}{\text{She would like the software to show pedestrian crash patterns alongside accessible crossing information when such data are available.}}$
+$\color{magenta}{\text{Emily has intermediate technical skills but values an accessible interface that supports keyboard navigation and screen readers.}}$
