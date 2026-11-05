@@ -56,4 +56,8 @@ $\color{magenta}{\text{Ronnie wants to save time – she wants to zoom to the jo
 $\color{green}{\text{Jim wants to see which intersection of that road is safest to cross.}}$
 $\color{cyan}{\text{Jim needs to be able to filter crashes to just the times of day/days of week that he delivers.}}$
 $\color{magenta}{\text{Jim is tech savvy. If we’re not careful, he’ll try to hack the tool himself.}}$
+14. $\color{yellow}{\text{Bobby is an urban designer who focuses on visibility for the city of Seattle.}}$
+$\color{green}{\text{They want to see the most common places of crash sites in Seattle and see whether visibility was related to the issue.}}$
+$\color{cyan}{\text{They want to be able to cross reference crash data locations with their own dataset of street light locations in Seattle, so they need to see specific site locations of where crashes occurred and when. Ideally, they want a spatial map of crash locations.}}$
+$\color{magenta}{\text{They are trained in spatial analysis tools.}}$
 
