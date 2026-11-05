@@ -76,3 +76,7 @@ $\color{magenta}{\text{Emily has intermediate technical skills but values an acc
 $\color{green}{\text{John wants to easily identify places with the highest probability of traffic collisions at a given time and day.}}$
 $\color{cyan}{\text{John wants a tool that he can easily open up and see what he wants without any input needed (automatically identifying time of day, date, running a model, and showing the output on a map) that he can scroll through easily like google maps.}}$
 $\color{magenta}{\text{John does not do tech. John is a little old.}}$
+19. $\color{yellow}{\text{Pedro is an elementary school teacher at La Escuelita.}}$
+$\color{green}{\text{He takes daily walks around Green Lake with the kids and wants to figure out what are the best routes for them to take around the neighborhood.}}$
+$\color{cyan}{\text{He wants to be able to filter for a particular region around his school to see relatively speaking what are the most car-free and safest walking routes.}}$
+$\color{magenta}{\text{He doesn't speak English very well so he needs the app to be intuitively navigable without needing to read a bunch of instructions in English.}}$
