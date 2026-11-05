@@ -80,3 +80,7 @@ $\color{magenta}{\text{John does not do tech. John is a little old.}}$
 $\color{green}{\text{He takes daily walks around Green Lake with the kids and wants to figure out what are the best routes for them to take around the neighborhood.}}$
 $\color{cyan}{\text{He wants to be able to filter for a particular region around his school to see relatively speaking what are the most car-free and safest walking routes.}}$
 $\color{magenta}{\text{He doesn't speak English very well so he needs the app to be intuitively navigable without needing to read a bunch of instructions in English.}}$
+20. $\color{yellow}{\text{Cristina is an immigrant from Colombia.}}$
+$\color{green}{\text{She wants to figure out her daily routes to work or anywhere else.}}$
+$\color{cyan}{\text{She's very nervous about getting into an accident in an unfamiliar country with weather she is not used to and wants the app to help her feel less anxious about driving}}$
+$\color{magenta}{\text{She's still learning the language so she needs the app to be intuitively navigable}}$
