@@ -84,3 +84,51 @@ $\color{magenta}{\text{He doesn't speak English very well so he needs the app to
 $\color{green}{\text{She wants to figure out her daily routes to work or anywhere else.}}$
 $\color{cyan}{\text{She's very nervous about getting into an accident in an unfamiliar country with weather she is not used to and wants the app to help her feel less anxious about driving}}$
 $\color{magenta}{\text{She's still learning the language so she needs the app to be intuitively navigable}}$
+21. $\color{yellow}{\text{Mia is a young woman living in Seattle}}$
+$\color{green}{\text{Because it gets dark early in winter, she's looking to walk in high traffic areas and avoid those with accident reports against pederstrians}}$
+$\color{cyan}{\text{She needs to be able to filter for specific types of accidents and get a sense of traffic volume or well lit streets}}$
+$\color{magenta}{\text{She's good with technology}}$
+22. $\color{yellow}{\text{Teresa is a tech working that commutes daily}}$
+$\color{green}{\text{She commutes through a construction zone and wants to know if that has made her route less safe to consider taking another}}$
+$\color{cyan}{\text{She needs to be able to look at accidents along particular routes and compare to other particular routes}}$
+$\color{magenta}{\text{She's ok with technology}}$
+23. $\color{yellow}{\text{Pablo is a public safety advocate}}$
+$\color{green}{\text{He needs to compare accident data across neighborhoods to gather evidence for campaigns to improve neighborhood safety}}$
+$\color{cyan}{\text{He wants a view where neighborhoods are explicitly compared and be able to export the data and figures}}$
+$\color{magenta}{\text{Comfortable with spreadsheets but not with software or }}$
+24. $\color{yellow}{\text{Leonor is an investigative journalist}}$
+$\color{green}{\text{She's looking for evidence for a story about the impact of infrastructure and road changes}}$
+$\color{cyan}{\text{She needs to be able to download data and needs our statistical methodology to be clearly documented so she can defend it properly}}$
+$\color{magenta}{\text{She's comfortable with data and statistics, she needs to know sample sizes to contextualize analysis}}$
+25. $\color{yellow}{\text{Paulina is partially blind}}$
+$\color{green}{\text{She wants to understand the safety patterns around her neighborhood without having to interpret map}}$
+$\color{cyan}{\text{She needs the analysis communicated in some other way}}$
+$\color{magenta}{\text{She understand statistics enough}}$
+26. $\color{yellow}{\text{Sofia is a small business owner}}$
+$\color{green}{\text{She knows to know how accidents at her intersection have changed over the years}}$
+$\color{cyan}{\text{Needs to be able to select an address and set a radius to understand the dynamics of incidents around her store}}$
+$\color{magenta}{\text{Not too comfortable with statistics}}$
+27. $\color{yellow}{\text{Finn is a graduate student studying transportation}}$
+$\color{green}{\text{He is curious about the reliability of the data and the reporting}}$
+$\color{cyan}{\text{He wants access to missing-data statistics, easy access to documentation with info on reporting period, export raw data we used}}$
+$\color{magenta}{\text{Comfortable with Python but unfamiliar with this data}}$
+28. $\color{yellow}{\text{Jorge is a high school}}$
+$\color{green}{\text{He's teacher a statistics class in high school and wants to walk his students through how to investigate questions like whether accidents are more common under certain weather conditions }}$
+$\color{cyan}{\text{Needs to be able to create his own statistics to explore the data with the class}}$
+$\color{magenta}{\text{High school math teacher}}$
+29. $\color{yellow}{\text{Antonio commutes by bus}}$
+$\color{green}{\text{There are a few bus routes that work for him so he want to comapare the different bus stop intersections for pedestrian incidents}}$
+$\color{cyan}{\text{Needs to be able to select a few intersections or bus stops and compare them by pedestrian accidents}}$
+$\color{magenta}{\text{Comfortable with technology}}$
+30. $\color{yellow}{\text{Carolina is a public health government analyst}}$
+$\color{green}{\text{She wants to use the tool to understand how injuries are concentrated by pedestrians, cyclist and drivers}}$
+$\color{cyan}{\text{She needs easy to use dashboard with filters of injury severity, weather, time of day, etc}}$
+$\color{magenta}{\text{comfortable with statistics and spreadsheets}}$
+31. $\color{yellow}{\text{Mariana is software developer}}$
+$\color{green}{\text{She volunteers on open source projects that help local government}}$
+$\color{cyan}{\text{Wants to incorporate some of our analysis into her application without building out her own data pipeline}}$
+$\color{magenta}{\text{Experienced Python developer who wants reproducible data processing, clear documentation and consistent data formats}}$
+32. $\color{yellow}{\text{Danielle is a community organizer}}$
+$\color{green}{\text{She wants to use the told to help organize farmers markets, neighborhood events or festivals, planning for high volume of pedestrians}}$
+$\color{cyan}{\text{She needs to filter for locations and street section and look at pedestrian accidents. And filter for day of week and time of day to be specific and maybe check if any of the other farms market locations have seen more accidents}}$
+$\color{magenta}{\text{Little experience analyzing data}}$
