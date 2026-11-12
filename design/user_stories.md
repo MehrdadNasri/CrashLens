@@ -112,8 +112,8 @@ $\color{magenta}{\text{Not too comfortable with statistics}}$
 $\color{green}{\text{He is curious about the reliability of the data and the reporting}}$
 $\color{cyan}{\text{He wants access to missing-data statistics, easy access to documentation with info on reporting period, export raw data we used}}$
 $\color{magenta}{\text{Comfortable with Python but unfamiliar with this data}}$
-28. $\color{yellow}{\text{Jorge is a high school}}$
-$\color{green}{\text{He's teacher a statistics class in high school and wants to walk his students through how to investigate questions like whether accidents are more common under certain weather conditions }}$
+28. $\color{yellow}{\text{Jorge is a high school teacher.}}$
+$\color{green}{\text{He's teaching a statistics class in high school and wants to walk his students through how to investigate questions like whether accidents are more common under certain weather conditions }}$
 $\color{cyan}{\text{Needs to be able to create his own statistics to explore the data with the class}}$
 $\color{magenta}{\text{High school math teacher}}$
 29. $\color{yellow}{\text{Antonio commutes by bus}}$
