@@ -132,3 +132,7 @@ $\color{magenta}{\text{Experienced Python developer who wants reproducible data 
 $\color{green}{\text{She wants to use the told to help organize farmers markets, neighborhood events or festivals, planning for high volume of pedestrians}}$
 $\color{cyan}{\text{She needs to filter for locations and street section and look at pedestrian accidents. And filter for day of week and time of day to be specific and maybe check if any of the other farms market locations have seen more accidents}}$
 $\color{magenta}{\text{Little experience analyzing data}}$
+33. $\color{yellow}{\text{Will Hunting is a low-income high school student who only has access to his school/library laptop.}}$
+$\color{green}{\text{Will is doing a statistics project.}}$
+$\color{cyan}{\text{He needs some way to login or save his progress across sessions because he does not have access to a single hardware that he can continue on over time.}}$
+$\color{magenta}{\text{Limited experience with stats and software programs.}}$
