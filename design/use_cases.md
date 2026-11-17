@@ -13,7 +13,6 @@ User Stories: 1, 4, 5, 9, 11, 12, 13, 15, 16, 17, 19, 20, 21, 22, 23, 24, 26, 29
 * Filter collisions by transportation mode (pedestrians, cyclists, vehicles), time of day, season, or any other conditions
 * Compare alternative routes to find some with fewer historical collisions
 * Compare how collision patterns change before and after infrastructure or policy changes 
-
 * **Operational Workflows:**
 * Allow users to enter a location, route, neighborhood, or multiple locations on a map
 * Show visualizations and statistics for collision rates/frequencies 
