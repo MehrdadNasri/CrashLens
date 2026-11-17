@@ -8,41 +8,43 @@
 * [Task 2]
 * **Operational Workflows:**
 
-# Use Case 1: Find safer routes
-User Stories: 1, 4, 5, 9, 11, 12, 13, 16, 17, 19, 20, 21, 22, 29, 32
+# Use Case 1: Find and compare safer routes for traveling and compare different locations 
+User Stories: 1, 4, 5, 9, 11, 12, 13, 15, 16, 17, 19, 20, 21, 22, 23, 24, 26, 29, 32
 ### Who is the User?
-* **Persona/Role:** Cyclists, pedestrians, parents, commuters, delivery drivers, and people planning group activities
-* **Context:** These are users who regularly travel through Seattle and want to find safer roads, intersections, or crossings based on their differing transportation needs
+* **Persona/Role:** Cyclists, pedestrians, parents, commuters, delivery drivers, policymakers, urban planners, community advocates, and business owners
+* **Context:** These are users who want to understand and compare traffic safety across different roads, intersections, travel routes, and neighborhoods. Some of these users are interested in this for personal travel decisions based on their individual modes of transportation, and other users are wanting to use this information to evaluate infrastructure changes over time or improve community safety. 
 
 ### What Do They Want to Do with the Tool?
 * **Primary Tasks:**
 * Identify roads and intersections with high frequencies of historical traffic collisions
 * View collision locations along a specific route or within a selected neighborhood
-* Filter collisions by transportation mode (pedestrians, cyclists, vehicles), time of day, season, and severity
-* Compare alternative routes to identify those with fewer historical collisions
+* Filter collisions by transportation mode (pedestrians, cyclists, vehicles), time of day, season, or any other conditions
+* Compare alternative routes to find some with fewer historical collisions
+* Compare how collision patterns change before and after infrastructure or policy changes 
 
 * **Operational Workflows:**
-* Allow users to enter starting locations and destinations or select regions of a map
-* Show historical traffic collision data at roads and intersections, show where high frequency collisions occur
+* Allow users to enter a location, route, neighborhood, or multiple locations on a map
+* Show visualizations and statistics for collision rates/frequencies 
 * Allow users to be able to apply filters relevent to their interests and transportation modes
-* Maybe allow users to compare routes?
+* Maybe allow users to compare routes or locations?
 
-# Use Case 2: Compare collision frequencies across different locations
-User Stories: 5, 8, 13, 15, 16, 22, 23, 24, 26, 29, 32
+# Use Case 2: Explore and analyze traffic collision patterns/conditions
+User Stories: 1, 2, 3, 6, 7, 10, 11, 14, 18, 20, 21, 23, 25, 26, 28, 30, 32
 ### Who is the User?
-* **Persona/Role:** Policymakers, urban planners, community advocates, commuters, journalists, and business owners
-* **Context:** These are users who would be interested in comparing safety/collision frequency between different roads, intersections, neighborhoods, or routes. Some users are using this information to make personal travel decisions, some are interested in evaluating infrastructure changes or improving public safety
+* **Persona/Role:** Researchers, meteorologists, transportation engineers, urban designers, educators, public safety professionals, journalists, and residents
+* **Context:** These are users who are interested in patterns across collision data to understand under what conditions collisions occur, when they occur, and where they occur. This can be important for conducting research, understanding potential contributing factors, and identifying trends in the data. 
 ### What Do They Want to Do with the Tool?
 * **Primary Tasks:**
-* Select and compare multiple intersections, roads, or neighborhoods
-* Compare collision frequency, severity, and collision types between locations
-* See how collisions have changed over time at a specific location
-* See side by side visualizations and statistics 
+* Visualize the spatial and temporal distribution of traffic collisions
+* Find collision hotspots
+* Filter collisions by weather, time of day, day of week, month of year, year, visibility, road conditions, severity, etc.
+* Filter by mode of transportation
+* Compare collision patterns/trends across different conditions / modes of transportation and create visualizations and statistics 
 * **Operational Workflows:**
-* Allow users to select two or more locations on a map
-* Allow users to specify a time period and filters
-* Gather statistics for each location
-* Create side by side comparisons of locations
+* Allow users to select geographic area
+* Allow users to filter by collision type, weather conditions, time period, etc.
+* Show collision locations based on filter and show statistics
+* Allow users to select different visualization types to see patterns / trends (?)
 
 # Use Case 3: Explore and visualize collision patterns and trends
 ### Who is the User?
@@ -54,7 +56,7 @@ User Stories: 5, 8, 13, 15, 16, 22, 23, 24, 26, 29, 32
 * [Task 2]
 * **Operational Workflows:**
 
-# Use Case 4: Analyze conditions associated with traffic collisions
+# Use Case 4: Export and communicate traffic collision data
 ### Who is the User?
 * **Persona/Role:** [Name/Job Title]
 * **Context:** [Brief background on who they are within the ecosystem]
