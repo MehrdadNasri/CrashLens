@@ -14,10 +14,11 @@ User Stories: 1, 4, 5, 9, 11, 12, 13, 15, 16, 17, 19, 20, 21, 22, 23, 24, 26, 29
 * Compare alternative routes to find some with fewer historical collisions
 * Compare how collision patterns change before and after infrastructure or policy changes 
 * **Operational Workflows:**
+* Allow users to draw different routes and compare safety
 * Allow users to enter a location, route, neighborhood, or multiple locations on a map
 * Show visualizations and statistics for collision rates/frequencies 
 * Allow users to be able to apply filters relevent to their interests and transportation modes
-* Maybe allow users to compare routes or locations?
+* Maybe allow users to compare routes or locations and add a safety score? 
 
 # Use Case 2: Explore and analyze traffic collision patterns/conditions
 User Stories: 1, 2, 3, 6, 7, 10, 11, 14, 18, 20, 21, 23, 25, 26, 28, 30, 32
