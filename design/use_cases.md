@@ -1,12 +1,4 @@
-# Use Case: [Brief Title / Persona Goal]
-### Who is the User?
-* **Persona/Role:** [Name/Job Title]
-* **Context:** [Brief background on who they are within the ecosystem]
-### What Do They Want to Do with the Tool?
-* **Primary Tasks:**
-* [Task 1]
-* [Task 2]
-* **Operational Workflows:**
+# Use Cases for CrashLens
 
 # Use Case 1: Find and compare safer routes for traveling and compare different locations 
 User Stories: 1, 4, 5, 9, 11, 12, 13, 15, 16, 17, 19, 20, 21, 22, 23, 24, 26, 29, 32
@@ -62,10 +54,20 @@ User Stories: 2, 5, 6, 14, 15, 23, 24, 25, 27, 28, 31, 33
 * Allow users to select a dataset or location
 * Allow user to apply filters to generate visualizations and statistics
 * Allow users to select options for downloading the data used in the visualizations/statistics as well as the figures
-  
+
+Template: 
+# Use Case: [Brief Title / Persona Goal]
+### Who is the User?
+* **Persona/Role:** [Name/Job Title]
+* **Context:** [Brief background on who they are within the ecosystem]
+### What Do They Want to Do with the Tool?
+* **Primary Tasks:**
+* [Task 1]
+* [Task 2]
+* **Operational Workflows:**
 
 
-Toireasa's grouping so far: (feel free to delete :) ) 
+Draft:
 1. Finding safer routes
    1- kian: cyclist
    4- jill: parent
