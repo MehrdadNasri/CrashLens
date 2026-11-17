@@ -46,26 +46,23 @@ User Stories: 1, 2, 3, 6, 7, 10, 11, 14, 18, 20, 21, 23, 25, 26, 28, 30, 32
 * Show collision locations based on filter and show statistics
 * Allow users to select different visualization types to see patterns / trends (?)
 
-# Use Case 3: Explore and visualize collision patterns and trends
+# Use Case 3: Export and save traffic collision data/visualizations 
+User Stories: 2, 5, 6, 14, 15, 23, 24, 25, 27, 28, 31, 33
 ### Who is the User?
-* **Persona/Role:** [Name/Job Title]
-* **Context:** [Brief background on who they are within the ecosystem]
+* **Persona/Role:** Researchers, policymakers, educators, data scientists, software developers, community advocates, students, residents
+* **Context:** These are users who want to share the data and incorporate collision data into other projects. This could include people wanting to download the dataset to reproduce analyses and incorporate other datasets or people who want to download figures/statistics presented for presentations, reports, briefings, etc. 
 ### What Do They Want to Do with the Tool?
 * **Primary Tasks:**
-* [Task 1]
-* [Task 2]
+* Download filtered traffic collision records
+* Download visualizations and statistics
+* Find references to data sources
+* Share analyses or visualizations with others
+* Save analyses or visualizations 
 * **Operational Workflows:**
-
-# Use Case 4: Export and communicate traffic collision data
-### Who is the User?
-* **Persona/Role:** [Name/Job Title]
-* **Context:** [Brief background on who they are within the ecosystem]
-### What Do They Want to Do with the Tool?
-* **Primary Tasks:**
-* [Task 1]
-* [Task 2]
-* **Operational Workflows:**
-
+* Allow users to select a dataset or location
+* Allow user to apply filters to generate visualizations and statistics
+* Allow users to select options for downloading the data used in the visualizations/statistics as well as the figures
+  
 
 
 Toireasa's grouping so far: (feel free to delete :) ) 
