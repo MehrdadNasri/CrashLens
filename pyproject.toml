@@ -3,3 +3,25 @@
 requires = ["setuptools>=64.0", "wheel", "setuptools_scm>=8.1"]
 build-backend = "setuptools.build_meta"
 
+[project]
+name = "crashlens"
+dynamic = ["version"]
+authors = [
+    {name = "", email = "},
+    {name = "", email = "},
+    {name = "", email = "},
+    {name = "", email = "},
+    {name = "", email = "},
+]
+description = "Visualizing traffic crashes to improve public safety awareness."
+readme = "README.md"
+dependencies = [
+    "numpy>=1.25",
+    "pandas>=2.1",
+]
+classifiers = [
+    "Programming Language :: Python :: 3",
+    "License :: OSI Approved :: MIT License",
+    "Operating System :: OS Independent",
+]
+[tool.setuptools_scm]
