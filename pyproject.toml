@@ -10,7 +10,7 @@ authors = [
     {name = "", email = "},
     {name = "", email = "},
     {name = "", email = "},
-    {name = "", email = "},
+    {name = "Nicholas Shepard", email = "shepard0@uw.edu"},
     {name = "Mehrdad Nasri", email = "mehnasri@uw.edu"},
 ]
 description = "Visualizing traffic crashes to improve public safety awareness."
