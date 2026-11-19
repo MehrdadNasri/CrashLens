@@ -1,4 +1,3 @@
-# This is the pyproject.toml file
 [build-system]
 requires = ["setuptools>=64.0", "wheel", "setuptools_scm>=8.1"]
 build-backend = "setuptools.build_meta"
@@ -7,8 +6,8 @@ build-backend = "setuptools.build_meta"
 name = "crashlens"
 dynamic = ["version"]
 authors = [
-    {name = "", email = "},
-    {name = "", email = "},
+    {name = "", email = ""},
+    {name = "Toireasa-Marie O'Rourke", email = "toireasa@uw.edu"},
     {name = "Miguel Velez", email = "mvelez2@uw.edu"},
     {name = "Nicholas Shepard", email = "shepard0@uw.edu"},
     {name = "Mehrdad Nasri", email = "mehnasri@uw.edu"},
