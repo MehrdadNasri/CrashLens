@@ -6,7 +6,7 @@ build-backend = "setuptools.build_meta"
 name = "crashlens"
 dynamic = ["version"]
 authors = [
-    {name = "", email = ""},
+    {name = "Ellington Chen", email = "ewcjchen@uw.edu"},
     {name = "Toireasa-Marie O'Rourke", email = "toireasa@uw.edu"},
     {name = "Miguel Velez", email = "mvelez2@uw.edu"},
     {name = "Nicholas Shepard", email = "shepard0@uw.edu"},
