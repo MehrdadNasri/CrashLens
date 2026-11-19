@@ -1,0 +1,9 @@
+name: crashlens
+
+channels:
+  - conda-forge
+
+dependencies:
+  - pandas
+  - matplotlib
+  - numpy
