@@ -7,3 +7,6 @@ dependencies:
   - pandas
   - matplotlib
   - numpy
+  - geopandas
+  - shapely
+  - scipy
