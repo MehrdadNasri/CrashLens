@@ -17,6 +17,7 @@ readme = "README.md"
 dependencies = [
     "numpy>=1.25",
     "pandas>=2.1",
+    "pytest",
 ]
 classifiers = [
     "Programming Language :: Python :: 3",
